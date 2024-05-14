@@ -1,6 +1,6 @@
 
 
-# Task 3: Implementation of Text Mining and Sentiment Analysis 
+# Implementation of Text Mining and Sentiment Analysis 
 
  
 OBJECTIVE AND SUB TASK DETAILS OF TASK3:
